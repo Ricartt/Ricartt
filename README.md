@@ -2,7 +2,7 @@
        
 <div>
   <p align="center">Olá! Tudo bem? 🤖 </p>
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/larissa-souza-81b62a20b"><i>Larissa Souza</i></a> e eu estudo Analise e Desenvolvimento de Sistemas <p>Sempre estou por aqui postando um pouco mais do meu desenvolvimento.. 😃️</p>
+  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/larissa-souza-81b62a20b"><i>Larissa Souza</i></a> e eu estudo Analise e Desenvolvimento de Sistemas <p><br>Sempre estou por aqui postando um pouco mais do meu desenvolvimento.. 😃️</p>
   <br>
  
 </div>
