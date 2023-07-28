@@ -6,10 +6,12 @@
 
 ## Estudando no momento:
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
-![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql) 
 ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github) 
 ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript) 
+![MYSQL](https://img.shields.io/badge/msql-000?style=for-the-badge&logo=mysql)
+![pOSTGRESQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+
 
 ## Sistema Operacional:
 ![Windows](https://img.shields.io/badge/Windowns-000?style=for-the-badge&logo=windows)
@@ -26,7 +28,6 @@
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) 
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![MONGODB](https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb)
-![MYSQL](https://img.shields.io/badge/msql-000?style=for-the-badge&logo=mysql)
 
 ## Status:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricartt&hide_progress=false&&layout=normal&bg_color=0000&border_color=0000&&text_color=FFF&custom_title=)
